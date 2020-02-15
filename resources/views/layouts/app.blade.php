@@ -38,6 +38,9 @@
                     <li>
                     <a class="navbar brand" href="{{route('mapel.index')}}">Mata Pelajaran</a>
                     </li>
+                    <li>
+                    <a class="navbar brand" href="{{route('siswa.index')}}">Daftar Siswa</a>
+                    </li>
                     </li>
                     </ul>
 
